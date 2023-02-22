@@ -8,7 +8,7 @@ permalink: /terms
 
 Version 1.0
 
-The ZiaSoft website located at https://ziasoft.tech is a copyrighted work belonging to ZiaSoft, LLC. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
+The So Best website located at https://nmhoff.github.io is a copyrighted work belonging to So Best. Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features.
 
 All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
@@ -118,6 +118,6 @@ Company is located at the address in Section 10.8\. If you are a California resi
 
 ## Contact Information
 
-Address: 1258 Ortiz Dr. SE, Suite 203, Albuquerque, NM 87108
+Address: 901 Madeira Dr. SE Albuquerque, NM 87108
 
-Email: info@ziasoft.tech
+Email: rattmobbins@yahoo.com

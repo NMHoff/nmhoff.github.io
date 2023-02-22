@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ZiaSoft, LLC
-email: info@ziasoft.tech
-description: ZiaSoft is your trusted IT reseller and service provider.
+title: So Best Stickers and T-Shirts
+email: rattmobbins@yahoo.com
+description: So Best is your trusted T-Shirt and Sticker provider.
 baseurl: ""
-url: "https://ziasoft.tech"
+url: "https://nmhoff.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 

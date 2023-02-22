@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<section class="inner-page">
+  <div class="container post">
+    <div class="post-header">
+      <img class="post-image" src="/assets/img/posts/{{page.image}}" alt="{{page.title}}"/>
+      <h2>{{page.title}}</h2>
+      <div class="post-date">{{ page.date | date: '%B %d, %Y' }}</div>
+    </div>
+    {{ content }}
+  </div>
+</section>

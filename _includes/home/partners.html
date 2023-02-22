@@ -1,0 +1,24 @@
+<!-- ======= Partners Section ======= -->
+<section id="partners" class="partners">
+  <div class="container">
+
+    <div class="section-title">
+      <span>Partners</span>
+      <h2>Partners</h2>
+      <p>ZiaSoft is partnered with industry leading IT Product and Service providers</p>
+    </div>
+
+    <div class="row partner-container">
+      {% for partner in site.data.partners %}
+      <div class="partner col-lg-4 col-md-6">
+        <a href="{{partner.link}}" target="_blank">
+        <div class="partner-wrap">
+          <img src="/assets/img/partners/{{partner.logo}}" class="img-fluid" alt="">
+        </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- ======= End Partners Section ======= -->

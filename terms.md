@@ -118,6 +118,6 @@ Company is located at the address in Section 10.8\. If you are a California resi
 
 ## Contact Information
 
-Address: 1258 Ortiz Dr. SE, Suite 203, Albuquerque, NM 87108
+Address: 901 Madeira Dr. SE Albuquerque, NM 87108
 
 Email: info@ziasoft.tech

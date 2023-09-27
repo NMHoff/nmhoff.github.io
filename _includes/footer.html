@@ -1,0 +1,50 @@
+<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-4 col-md-6">
+          <div class="footer-info">
+            <h3>ZiaSoft, LLC</h3>
+            <p>
+              Albuquerque, NM <br /><br />
+              <strong>Phone:</strong> +1 (505) 633-6864<br>
+              <strong>Email:</strong> info@ziasoft.tech<br>
+            </p>
+            <div class="social-links mt-3">
+              <a href="https://www.linkedin.com/company/ziasoft/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+<!--              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>-->
+<!--              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>-->
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="/#">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/#about">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/terms">Terms of Use</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/privacy">Privacy Policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-6 footer-blog">
+          <h4>Latest News</h4>
+          <ul>
+          {% for post in site.posts limit:3 %}
+            <li>
+              <i class="bx bx-chevron-right"></i>
+              <a href="{{ post.url }}">{{ post.title }}</a><div class="date">{{ post.date | date: '%B %d, %Y' }}</div></li>
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- ======= End Footer ======= -->

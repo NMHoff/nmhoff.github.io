@@ -1,0 +1,23 @@
+<!-- ======= Services Section ======= -->
+<section id="services" class="services section-bg">
+  <div class="container">
+
+    <div class="section-title">
+      <span>Services</span>
+      <h2>Services</h2>
+      <p>ZiaSoft is a full service Enterprise Information Technology Vendor</p>
+    </div>
+
+    <div class="row">
+      {% for service in site.data.services %}
+      <div class="col-md-6 mt-4 mt-md-0">
+        <div class="icon-box">
+          <i class="icofont-{{service.icon}}"></i>
+          <h4><a href="#">{{service.title}}</a></h4>
+          <p>{{service.caption}}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section><!-- End Services Section -->

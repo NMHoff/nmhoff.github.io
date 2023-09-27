@@ -1,0 +1,28 @@
+- title: IT Product Sales
+  caption: ZiaSoft resells hardware and software products from the leading IT Vendors.
+  icon: computer
+
+- title: Professional Services Sales
+  caption: ZiaSoft can help you get professional services from the IT Name Brands you know and trust.
+  icon: workers-group
+
+- title: Training
+  caption: Get training, education, and certification on leading IT technologies.
+  icon: graduate
+
+- title: Consulting
+  caption: Need IT consultants to help design and deploy technology within your organization? ZiaSoft is here to help!
+  icon: unique-idea
+
+- title: Fractional Technology Executives
+  caption: |-
+    Need a Chief Technlogy Officer or other technology executive, but aren't ready to for a full time resource?
+    ZiaSoft has seasoned technology executives that can help lead your organization for a fraction of the cost.
+  icon: business-man
+
+- title: Software Development
+  caption: |-
+    ZiaSoft is a full service custom softare development shop. We can take your project from concept to delivery.
+    Our agile development processes are high value and low risk. ZiaSoft can get you to production fast and without
+    all the hassle.
+  icon: code
